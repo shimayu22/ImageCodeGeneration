@@ -1,5 +1,7 @@
 # GooglePhotoの画像URLを使ってWordPress用のタグを生成する
 
+Generate code for WordPress using Google Photo image URL
+
 WordPressプラグインの「Photo Express for Google」が使えなくなってしまったので、  URLを入力するとURLを画像表示するタグを生成してくれるアプリ（？）を作りました。
 
 また、生成した際にタグをクリップボードへ追加します。
@@ -20,9 +22,6 @@ pyperclipを使用しているので、インストールしておいてくだ�
 
 例）
 ```<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="画像URL" itemprop="image"></span>```
-
-
-Generate code for WordPress using Google Photo image URL
 
 
 参考：https://www.tsuruyahonnpo.com/2019/01/20/photo-express-for-google-%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F/
