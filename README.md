@@ -17,5 +17,12 @@ pyperclipを使用しているので、インストールしておいてくだ�
 1. 無限ループしているので、まだ追加する画像があれば同じようにURLを入力してください
 1. 「n」を入力してEnterを押すとプログラムが終了します
 
+
+例）
+```<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="画像URL" itemprop="image"></span>```
+
+
 Generate code for WordPress using Google Photo image URL
 
+
+参考：https://www.tsuruyahonnpo.com/2019/01/20/photo-express-for-google-%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F/
