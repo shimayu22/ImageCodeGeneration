@@ -2,7 +2,8 @@
 
 Generate code for WordPress using Google Photo image URL
 
-WordPressプラグインの「Photo Express for Google」が使えなくなってしまったので、  URLを入力するとURLを画像表示するタグを生成してくれるアプリ（？）を作りました。
+WordPressプラグインの「Photo Express for Google」が使えなくなってしまったので、  
+URLを入力するとURLを画像表示するタグを生成してくれるアプリ（？）を作りました。
 
 また、生成した際にタグをクリップボードへ追加します。
 
